@@ -30,7 +30,7 @@ Class MainWindow
     End Sub
 
     Private Sub Window_Loaded(sender As Object, e As RoutedEventArgs)
-        Dim dbath = "C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\bdProyecto.mdb"
+        Dim dbath = "C:\bdProyecto.mdb"
         Dim strConexion = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" & dbath
 
         Using conexion As New OleDbConnection(strConexion)

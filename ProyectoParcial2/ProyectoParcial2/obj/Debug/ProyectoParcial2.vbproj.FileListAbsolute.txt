@@ -36,3 +36,22 @@ C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\Proyect
 C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.g.resources
 C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.Resources.resources
 C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.vbproj.GenerateResource.Cache
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.exe.config
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.exe
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.xml
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.pdb
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.exe
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.pdb
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.xml
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.vbprojResolveAssemblyReference.cache
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\MainWindow.baml
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\Modificar.baml
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\WinUsuario.baml
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\MainWindow.g.vb
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\Modificar.g.vb
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\WinUsuario.g.vb
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\Application.g.vb
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2_MarkupCompile.cache
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.g.resources
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.Resources.resources
+C:\Users\Josselyn\Desktop\PROYECTO GIT\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.vbproj.GenerateResource.Cache

@@ -6,172 +6,140 @@ ProyectoParcial2
 </name>
 </assembly>
 <members>
-<member name="T:ProyectoParcial2.Modificar">
-<summary>
+<member name="M:ProyectoParcial2.Modificar.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:ProyectoParcial2.Modificar">
+	<summary>
 Modificar
 </summary>
-</member>
-<member name="M:ProyectoParcial2.Modificar.InitializeComponent">
-<summary>
+</member><member name="M:ProyectoParcial2.MainWindow.InitializeComponent">
+	<summary>
 InitializeComponent
 </summary>
-</member>
-<member name="T:ProyectoParcial2.WinUsuario">
-<summary>
-WinUsuario
-</summary>
-</member>
-<member name="M:ProyectoParcial2.WinUsuario.InitializeComponent">
-<summary>
-InitializeComponent
-</summary>
-</member>
-<member name="T:ProyectoParcial2.Application">
-<summary>
-Application
-</summary>
-</member>
-<member name="M:ProyectoParcial2.Application.InitializeComponent">
-<summary>
-InitializeComponent
-</summary>
-</member>
-<member name="M:ProyectoParcial2.Application.Main">
-<summary>
-Application Entry Point.
-</summary>
-</member>
-<member name="T:ProyectoParcial2.MainWindow">
-<summary>
+</member><member name="T:ProyectoParcial2.MainWindow">
+	<summary>
 MainWindow
 </summary>
-</member>
-<member name="M:ProyectoParcial2.MainWindow.InitializeComponent">
-<summary>
+</member><member name="M:ProyectoParcial2.Application.InitializeComponent">
+	<summary>
 InitializeComponent
 </summary>
-</member>
-<member name="T:ProyectoParcial2.My.MyWpfExtension">
- <summary>
- Module used to define the properties that are available in the My Namespace for WPF
- </summary>
- <remarks></remarks>
-</member>
-<member name="P:ProyectoParcial2.My.MyWpfExtension.Application">
- <summary>
+</member><member name="M:ProyectoParcial2.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:ProyectoParcial2.Application">
+	<summary>
+Application
+</summary>
+</member><member name="M:ProyectoParcial2.WinUsuario.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:ProyectoParcial2.WinUsuario">
+	<summary>
+WinUsuario
+</summary>
+</member><member name="P:ProyectoParcial2.My.MyWpfExtension.Application">
+	<summary>
  Returns the application object for the running application
  </summary>
-</member>
-<member name="P:ProyectoParcial2.My.MyWpfExtension.Computer">
- <summary>
+</member><member name="P:ProyectoParcial2.My.MyWpfExtension.Computer">
+	<summary>
  Returns information about the host computer.
  </summary>
-</member>
-<member name="P:ProyectoParcial2.My.MyWpfExtension.User">
- <summary>
+</member><member name="P:ProyectoParcial2.My.MyWpfExtension.User">
+	<summary>
  Returns information for the current user.  If you wish to run the application with the current 
  Windows user credentials, call My.User.InitializeWithWindowsUser().
  </summary>
-</member>
-<member name="P:ProyectoParcial2.My.MyWpfExtension.Log">
- <summary>
+</member><member name="P:ProyectoParcial2.My.MyWpfExtension.Log">
+	<summary>
  Returns the application log. The listeners can be configured by the application's configuration file.
  </summary>
-</member>
-<member name="P:ProyectoParcial2.My.MyWpfExtension.Windows">
- <summary>
+</member><member name="P:ProyectoParcial2.My.MyWpfExtension.Windows">
+	<summary>
  Returns the collection of Windows defined in the project.
  </summary>
-</member>
-<member name="T:ProyectoParcial2.My.Resources.Resources">
-<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.ResourceManager">
-<summary>
+</member><member name="T:ProyectoParcial2.My.MyWpfExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+	<remarks></remarks>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.ResourceManager">
+	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.Culture">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.Culture">
+	<summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources._1">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources._1">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources._2">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources._2">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources._3">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources._3">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources._8491289925_698c14dc78">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources._8491289925_698c14dc78">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.atrascircl">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.atrascircl">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.botnes">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.botnes">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.circulo">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.circulo">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.equis">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.equis">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.fondo">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.fondo">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.fondo1">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.fondo1">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.fondo2">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.fondo2">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.nintendo">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.nintendo">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.okeyEquis">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.okeyEquis">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.palanca">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.palanca">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:ProyectoParcial2.My.Resources.Resources.TODS">
-<summary>
+</member><member name="P:ProyectoParcial2.My.Resources.Resources.TODS">
+	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ProyectoParcial2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member>
 </members>
