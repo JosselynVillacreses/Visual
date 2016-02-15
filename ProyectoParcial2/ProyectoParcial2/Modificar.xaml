@@ -1,0 +1,8 @@
+﻿<Window x:Class="Modificar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Modificar" Height="448.936" Width="415.957" Closed="Window_Closed">
+    <Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,38 @@
+C:\Users\Josselyn\AppData\Local\Temporary Projects\ProyectoParcial2\bin\Debug\ProyectoParcial2.exe.config
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.exe.config
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.exe
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.pdb
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.xml
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\MainWindow.g.vb
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\Application.g.vb
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2_MarkupCompile.cache
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\MainWindow.baml
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.g.resources
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.Resources.resources
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.vbproj.GenerateResource.Cache
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.exe
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.xml
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.pdb
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\WinAdmin.baml
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\WinUsuario.baml
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\WinAdmin.g.vb
+C:\VISUAL\ProyectoParcial2\ProyectoParcial2\obj\Debug\WinUsuario.g.vb
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.exe.config
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.exe
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.xml
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.pdb
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.exe
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.pdb
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\bin\Debug\ProyectoParcial2.xml
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.vbprojResolveAssemblyReference.cache
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\MainWindow.baml
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\Modificar.baml
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\WinUsuario.baml
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\MainWindow.g.vb
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\Modificar.g.vb
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\WinUsuario.g.vb
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\Application.g.vb
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2_MarkupCompile.cache
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.g.resources
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.Resources.resources
+C:\Users\Familiar\Documents\Visual Studio 2015\Projects\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.vbproj.GenerateResource.Cache
