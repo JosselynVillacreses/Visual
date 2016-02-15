@@ -18,10 +18,16 @@
         Me.Close()
     End Sub
 
-    Private Sub MenuItem_Click(sender As Object, e As RoutedEventArgs)
+   
+
+    Private Sub menuEditar_Click(sender As Object, e As RoutedEventArgs)
         Dim winModificar As New Modificar
         winModificar.Owner = Me
         winModificar.Show()
         Me.Hide()
+    End Sub
+
+    Private Sub menuCrear_Click(sender As Object, e As RoutedEventArgs)
+
     End Sub
 End Class
