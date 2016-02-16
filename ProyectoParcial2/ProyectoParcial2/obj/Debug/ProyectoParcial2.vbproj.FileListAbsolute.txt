@@ -74,3 +74,6 @@ C:\Users\Jenniffer Trelles\Desktop\pry\Visual\ProyectoParcial2\ProyectoParcial2\
 C:\Users\Jenniffer Trelles\Desktop\pry\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.g.resources
 C:\Users\Jenniffer Trelles\Desktop\pry\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.Resources.resources
 C:\Users\Jenniffer Trelles\Desktop\pry\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2.vbproj.GenerateResource.Cache
+C:\Users\Jenniffer Trelles\Desktop\pry\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\DatosA_M.g.vb
+C:\Users\Jenniffer Trelles\Desktop\pry\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\Mostrar_Factura.g.vb
+C:\Users\Jenniffer Trelles\Desktop\pry\Visual\ProyectoParcial2\ProyectoParcial2\obj\Debug\ProyectoParcial2_MarkupCompile.lref

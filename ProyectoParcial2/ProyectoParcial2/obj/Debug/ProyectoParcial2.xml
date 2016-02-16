@@ -6,12 +6,32 @@ ProyectoParcial2
 </name>
 </assembly>
 <members>
+<member name="T:ProyectoParcial2.DatosA_M">
+<summary>
+DatosA_M
+</summary>
+</member>
+<member name="M:ProyectoParcial2.DatosA_M.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:ProyectoParcial2.Modificar">
 <summary>
 Modificar
 </summary>
 </member>
 <member name="M:ProyectoParcial2.Modificar.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ProyectoParcial2.Mostrar_Factura">
+<summary>
+Mostrar_Factura
+</summary>
+</member>
+<member name="M:ProyectoParcial2.Mostrar_Factura.InitializeComponent">
 <summary>
 InitializeComponent
 </summary>

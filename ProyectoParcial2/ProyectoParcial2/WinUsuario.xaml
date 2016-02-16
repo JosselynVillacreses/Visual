@@ -12,14 +12,13 @@
                 <ImageBrush ImageSource="images/search.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-       
+
 
         <Menu Height="24" DockPanel.Dock="Top"  VerticalAlignment="Center"  HorizontalAlignment="Center"    Background="{x:Null}" BorderBrush="#FF00C5FF" Foreground="#FFB9B9B9" Margin="10,10,804,600" Width="80">
             <MenuItem Header="Menu" Height="24" Width="151" Foreground="#FFECECEC" Click="MenuItem_Click" >
-                
+
                 <MenuItem Header="Crear..." Background="#FF464646" Click="menuCrear_Click"/>
-               
-              <MenuItem Header="Eliminar..." Background="#FF464646" Click="menuEliminar_Click"/>
+                <MenuItem Header="Eliminar..." Background="#FF464646" Click="menuEliminar_Click"/>
 
 
             </MenuItem>
@@ -39,8 +38,8 @@
         </Button>
 
         <TextBox x:Name="txtxNumCompra" HorizontalAlignment="Left" Height="20" Margin="74,59,0,0" Text="0 " VerticalAlignment="Top" Width="82" Foreground="#FF979696" BorderBrush="#FF00C5FF" FontFamily="Consolas"  VerticalContentAlignment="Center"  HorizontalContentAlignment="Center" Background="{x:Null}" FontSize="10.667" />
-        
-        <DataGrid x:Name="dgDescripcionVideojuegos" Margin="33,0,27,67" VerticalAlignment="Bottom" Height="421" Width="832" AutoGenerateColumns="False" ItemsSource="{Binding Juegos}" HorizontalAlignment="Center" IsReadOnly="True" CanUserAddRows="False">
+
+        <DataGrid x:Name="dgDescripcionVideojuegos" Margin="34,0,62,67" VerticalAlignment="Bottom" Height="421" Width="798" AutoGenerateColumns="False" ItemsSource="{Binding Juegos}" HorizontalAlignment="Center" IsReadOnly="True" CanUserAddRows="False">
             <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding titulo}" ClipboardContentBinding="{x:Null}" Header="Titulo" IsReadOnly="True"/>
                 <DataGridTextColumn Binding="{Binding tituloOriginal}" ClipboardContentBinding="{x:Null}" Header="TituloOriginal" IsReadOnly="True"/>

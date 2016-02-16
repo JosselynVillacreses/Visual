@@ -1,0 +1,25 @@
+﻿<Window x:Class="Mostrar_Factura"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoParcial2"
+        mc:Ignorable="d"
+       Title="Factura" Height="622" Width="600">
+    <Grid>
+        <DataGrid x:Name="dgFacturaVideoJuegos" Margin="139,0,145,146" VerticalAlignment="Bottom" Height="375" Width="308" AutoGenerateColumns="False" ItemsSource="{Binding Juegos}" HorizontalAlignment="Center" IsReadOnly="True" CanUserAddRows="False" FontSize="16">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding titulo}" ClipboardContentBinding="{x:Null}" Header="  Titulo  " IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding precio}" ClipboardContentBinding="{x:Null}" Header="  Precio Unitario  " IsReadOnly="True"/>
+                <DataGridTextColumn  ClipboardContentBinding="{x:Null}" Header="  Cantidad  " IsReadOnly="True"/>
+
+
+
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnAceptar" Content="Aceptar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="174,522,0,0" Background="#FF00C5FF" BorderBrush="{x:Null}" Foreground="#FF5F5F5F" FontFamily="Consolas"/>
+        <Button x:Name="btnEliminarCompra" Content="Eliminar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="340,522,0,0" Background="#FF00C5FF" BorderBrush="{x:Null}" Foreground="#FF5F5F5F" FontFamily="Consolas"/>
+    </Grid>
+</Window>

@@ -1,0 +1,41 @@
+﻿<Window x:Class="DatosA_M"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoParcial2"
+        mc:Ignorable="d"
+        Title="DatosA_M" Height="487.7" Width="381.301">
+    <Grid>
+
+        <TextBox x:Name="txtTitulo" HorizontalAlignment="Left" Height="23" Margin="191,18,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Titulo:" HorizontalAlignment="Left" Margin="56,18,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <TextBox x:Name="txtTituloOriginal" HorizontalAlignment="Left" Height="23" Margin="191,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Titulo Original:" HorizontalAlignment="Left" Margin="56,46,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <TextBox x:Name="txtDesarrollador" HorizontalAlignment="Left" Height="23" Margin="191,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Desarrollador:" HorizontalAlignment="Left" Margin="56,74,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <TextBox x:Name="txtDsitribuidor" HorizontalAlignment="Left" Height="23" Margin="191,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Distribuidor:" HorizontalAlignment="Left" Margin="56,102,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <Button x:Name="btnagregar" Content="Añadir" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="70,407,0,0" Background="#FF00C5FF" BorderBrush="{x:Null}" Foreground="#FF5F5F5F" FontFamily="Consolas"/>
+        <Button x:Name="btnVolver" Content="Volver" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="232,407,0,0" Background="#FF00C5FF" BorderBrush="{x:Null}" Foreground="#FF5F5F5F" FontFamily="Consolas"/>
+        <TextBox x:Name="txtDiseñador" HorizontalAlignment="Left" Height="23" Margin="191,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Diseñador:" HorizontalAlignment="Left" Margin="56,129,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <TextBox x:Name="txtProgrmador" HorizontalAlignment="Left" Height="23" Margin="191,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Programador:" HorizontalAlignment="Left" Margin="56,157,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <TextBox x:Name="txtLanzamiento" HorizontalAlignment="Left" Height="23" Margin="191,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Lanzamiento:" HorizontalAlignment="Left" Margin="56,186,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <TextBox x:Name="txtPlataforma" HorizontalAlignment="Left" Height="23" Margin="191,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Plataforma:" HorizontalAlignment="Left" Margin="56,214,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <TextBox x:Name="txtGenero" HorizontalAlignment="Left" Height="23" Margin="191,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Genero:" HorizontalAlignment="Left" Margin="56,241,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <TextBox x:Name="txtModo" HorizontalAlignment="Left" Height="23" Margin="191,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Modo:" HorizontalAlignment="Left" Margin="56,269,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <TextBox x:Name="txtPrecio" HorizontalAlignment="Left" Height="23" Margin="191,297,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Precio:" HorizontalAlignment="Left" Margin="56,297,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <Label Content="Avaliable:" HorizontalAlignment="Left" Margin="56,320,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+        <CheckBox x:Name="chckAvalaible"  Width="17" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="191,325,0,0"  BorderBrush="#FF00C5FF" Foreground="#FF646464"/>
+        <TextBox x:Name="txtStock" HorizontalAlignment="Left" Height="23" Margin="191,345,-31,-99" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" SelectionBrush="#FF00C5FF" BorderBrush="#FF00C5FF" Foreground="#FFBDB2B2" FontSize="10.667" Background="{x:Null}" FontFamily="Consolas"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Stock:" HorizontalAlignment="Left" Margin="56,345,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF919191" FontSize="11" FontFamily="Consolas"/>
+
+    </Grid>
+</Window>

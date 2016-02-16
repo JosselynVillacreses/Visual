@@ -15,7 +15,7 @@ Public Class WinUsuario
             lblUser.Content = "Bienvenid@ " + winLoggin.cuentaIngresada.Nombre
             Dim query As String = "Select * From Juegos;" 'comando para consulta en base que se ha llamado
             Dim adapter As New OleDbDataAdapter(query, conexion) 'con la conexion tratar de acceder a los datos
-            Dim builder As New OleDbCommandBuilder(adapter)
+            'Dim builder As New OleDbCommandBuilder(adapter)
             adapter.Fill(dsjuegos, "juegos")
             adapter.MissingSchemaAction = MissingSchemaAction.AddWithKey
 

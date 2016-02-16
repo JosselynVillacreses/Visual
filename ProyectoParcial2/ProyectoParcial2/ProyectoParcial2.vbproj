@@ -69,14 +69,24 @@
     </ApplicationDefinition>
     <Compile Include="Administrador.vb" />
     <Compile Include="Cuentas.vb" />
+    <Compile Include="DatosA_M.xaml.vb">
+      <DependentUpon>DatosA_M.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Juego.vb" />
     <Compile Include="Modificar.xaml.vb">
       <DependentUpon>Modificar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_Factura.xaml.vb">
+      <DependentUpon>Mostrar_Factura.xaml</DependentUpon>
     </Compile>
     <Compile Include="Usuario.vb" />
     <Compile Include="WinUsuario.xaml.vb">
       <DependentUpon>WinUsuario.xaml</DependentUpon>
     </Compile>
+    <Page Include="DatosA_M.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -90,6 +100,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Modificar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Mostrar_Factura.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
