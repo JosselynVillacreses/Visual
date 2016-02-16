@@ -12,7 +12,7 @@
                 <ImageBrush ImageSource="images/search.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <DataGrid HorizontalAlignment="Left" Margin="0,100,0,0" VerticalAlignment="Top" Height="381" Width="894" Background="{x:Null}" BorderBrush="#FF00D1FF" />
+       
 
         <Menu Height="24" DockPanel.Dock="Top"  VerticalAlignment="Center"  HorizontalAlignment="Center"    Background="{x:Null}" BorderBrush="#FF00C5FF" Foreground="#FFB9B9B9" Margin="10,10,804,600" Width="80">
             <MenuItem Header="Menu" Height="24" Width="151" Foreground="#FFECECEC" >
@@ -27,6 +27,39 @@
         <Label x:Name="Userlbl" Content="Bienvenid@ WillitoPexoxo94" HorizontalAlignment="Left" Margin="577,10,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="11" Foreground="#FFECECEC" Background="{x:Null}"/>
         <Label  Content="Cerrar Sesión" HorizontalAlignment="Left" Margin="779,10,0,0" VerticalAlignment="Top" Foreground="#FF00C5FF" FontFamily="Consolas" FontSize="11" MouseDown="Label_MouseDown"/>
         <Label Panel.ZIndex="-1" Content="" HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="894" Background="#FF464646" Margin="0,-3,0,0"/>
+
+        <Button x:Name="btnComprar" Content="" HorizontalAlignment="Left" Margin="20,47,0,0" VerticalAlignment="Top" Width="38" Foreground="#FFA4A4A4" Height="41" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform" ImageSource="images/compras.png"/>
+            </Button.Background>
+        </Button>
+
+        <Button x:Name="btnFactura" Content="Mostrar Factura" HorizontalAlignment="Left" Margin="216,53,0,0" VerticalAlignment="Top" Width="94" Foreground="#FF8B8B8B" Height="30" BorderBrush="#FF3399FF" Background="#FFF4FDFF">
+
+        </Button>
+
+        <TextBox x:Name="txtxNumCompra" HorizontalAlignment="Left" Height="20" Margin="74,59,0,0" Text="0 " VerticalAlignment="Top" Width="82" Foreground="#FF979696" BorderBrush="#FF00C5FF" FontFamily="Consolas"  VerticalContentAlignment="Center"  HorizontalContentAlignment="Center" Background="{x:Null}" FontSize="10.667" />
+        
+        <DataGrid x:Name="dgDescripcionVideojuegos" Margin="33,0,27,67" VerticalAlignment="Bottom" Height="421" Width="832" AutoGenerateColumns="False" ItemsSource="{Binding Juegos}" HorizontalAlignment="Center" IsReadOnly="True" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding titulo}" ClipboardContentBinding="{x:Null}" Header="Titulo" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding tituloOriginal}" ClipboardContentBinding="{x:Null}" Header="TituloOriginal" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding desarrollador}" ClipboardContentBinding="{x:Null}" Header="Desarrollador" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding distribuidor}" ClipboardContentBinding="{x:Null}" Header="Distribuidor" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding diseñador}" ClipboardContentBinding="{x:Null}" Header="Diseñador" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding programador}" ClipboardContentBinding="{x:Null}" Header="Programador" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding lanzamiento}" ClipboardContentBinding="{x:Null}" Header="Lanzamiento" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding plataforma}" ClipboardContentBinding="{x:Null}" Header="Plataforma" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding genero}" ClipboardContentBinding="{x:Null}" Header="Genero" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding modo}" ClipboardContentBinding="{x:Null}" Header="Modo" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding precio}" ClipboardContentBinding="{x:Null}" Header="Precio" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding avaliable}" ClipboardContentBinding="{x:Null}" Header="Avaliable" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding stock}" ClipboardContentBinding="{x:Null}" Header="Stock" IsReadOnly="True"/>
+
+
+
+            </DataGrid.Columns>
+        </DataGrid>
 
 
 
