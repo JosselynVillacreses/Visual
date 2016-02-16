@@ -15,16 +15,16 @@
        
 
         <Menu Height="24" DockPanel.Dock="Top"  VerticalAlignment="Center"  HorizontalAlignment="Center"    Background="{x:Null}" BorderBrush="#FF00C5FF" Foreground="#FFB9B9B9" Margin="10,10,804,600" Width="80">
-            <MenuItem Header="Menu" Height="24" Width="151" Foreground="#FFECECEC" >
+            <MenuItem Header="Menu" Height="24" Width="151" Foreground="#FFECECEC" Click="MenuItem_Click" >
                 
                 <MenuItem Header="Crear..." Background="#FF464646" Click="menuCrear_Click"/>
-                <MenuItem Header="Editar..." Background="#FF464646" Click="menuEditar_Click"/>
-                <MenuItem Header="Eliminar..." Background="#FF464646"/>
+               
+              <MenuItem Header="Eliminar..." Background="#FF464646" Click="menuEliminar_Click"/>
 
 
             </MenuItem>
         </Menu>
-        <Label x:Name="Userlbl" Content="Bienvenid@ WillitoPexoxo94" HorizontalAlignment="Left" Margin="577,10,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="11" Foreground="#FFECECEC" Background="{x:Null}"/>
+        <Label x:Name="lblUser" Content="Bienvenid@ WillitoPexoxo94" HorizontalAlignment="Left" Margin="577,10,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="11" Foreground="#FFECECEC" Background="{x:Null}"/>
         <Label  Content="Cerrar Sesión" HorizontalAlignment="Left" Margin="779,10,0,0" VerticalAlignment="Top" Foreground="#FF00C5FF" FontFamily="Consolas" FontSize="11" MouseDown="Label_MouseDown"/>
         <Label Panel.ZIndex="-1" Content="" HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="894" Background="#FF464646" Margin="0,-3,0,0"/>
 
