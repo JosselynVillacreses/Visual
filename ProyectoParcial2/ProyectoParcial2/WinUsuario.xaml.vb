@@ -41,10 +41,10 @@ Public Class WinUsuario
 
 
     Private Sub menuEditar_Click(sender As Object, e As RoutedEventArgs)
-        Dim winModificar As New Modificar
-        winModificar.Owner = Me
-        winModificar.Show()
-        Me.Hide()
+        'Dim winModificar As New Modificar
+        'winModificar.Owner = Me
+        'winModificar.Show()
+        'Me.Hide()
     End Sub
 
     'Private Sub Sub_Eliminar_Click(sender As Object, e As RoutedEventArgs) Handles Sub_Eliminar.Click

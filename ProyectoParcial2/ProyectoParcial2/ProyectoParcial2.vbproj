@@ -73,9 +73,6 @@
       <DependentUpon>DatosA_M.xaml</DependentUpon>
     </Compile>
     <Compile Include="Juego.vb" />
-    <Compile Include="Modificar.xaml.vb">
-      <DependentUpon>Modificar.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Mostrar_Factura.xaml.vb">
       <DependentUpon>Mostrar_Factura.xaml</DependentUpon>
     </Compile>
@@ -99,10 +96,6 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Modificar.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="Mostrar_Factura.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
